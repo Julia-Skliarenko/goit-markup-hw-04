@@ -86,12 +86,12 @@ color: #2E2F42;
     display: flex;
     gap: 40px;
 }
-.header-link {
+.header-link-first {
     position: relative;
     color: #404bbf;
 }
 
-.header-link::after {
+.header-link-first::after {
 content: '';
 position: absolute;
 left: 0;
