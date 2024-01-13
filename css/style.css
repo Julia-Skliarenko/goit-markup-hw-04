@@ -387,11 +387,11 @@ border-radius: 2px;
     overflow: hidden;
 }
 
-.portfolio-item:hover .portfolio-text-wrap {
+.portfolio-item:hover .portfolio-cover-text {
     transform: translateY(0%);
 }
 
-.portfolio-text-wrap {
+.portfolio-cover-text {
     position: absolute;
     top: 0;
     background:#4D5AE5;
