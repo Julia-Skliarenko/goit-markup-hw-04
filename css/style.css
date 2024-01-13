@@ -86,13 +86,13 @@ color: #2E2F42;
     display: flex;
     gap: 40px;
 }
-.header-link-first {
+.current {
     position: relative;
     color: #404bbf;
 }
 
-.header-link-first::after {
-content: '';
+.current::after {
+content: "";
 position: absolute;
 left: 0;
 bottom: -1px;
