@@ -88,7 +88,6 @@ color: #2E2F42;
 }
 .current {
     position: relative;
-    color: #404bbf;
 }
 
 .current::after {
@@ -99,6 +98,7 @@ bottom: -1px;
 width: 48px;
 height: 4px;
 display: block;
+color: #404bbf;
 background-color: #404bbf;
 border-radius: 2px;
 }
